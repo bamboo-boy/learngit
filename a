@@ -1,0 +1,48 @@
+[33mcommit 652b48b3a3cfe8a61999ece1f37d51ab40576a15[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Tue Oct 6 10:45:24 2020 +0800
+
+    add merge
+
+[33mcommit 2ee6d1ed723d7ef448562b6bc5dea1d34d835d18[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: fbb72ed fa70158
+Author: bamboo-boy <374633434@qq.com>
+Date:   Tue Oct 6 10:40:07 2020 +0800
+
+    conflict fixed
+
+[33mcommit fbb72edb8a0b87041d4c4245d6df639e4d5681d9[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Tue Oct 6 10:36:40 2020 +0800
+
+    & simple
+
+[33mcommit fa70158bee2677fa21181fadd42205cbe885e5e0[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Tue Oct 6 10:35:24 2020 +0800
+
+    AND simple
+
+[33mcommit 3392426b8c43b36a259f8c6e84a3e8c8f7745db6[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Tue Oct 6 10:02:04 2020 +0800
+
+    branch test
+
+[33mcommit ae35c8a8ccb0844978719dedd067e52f6ded97ad[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Mon Oct 5 20:25:21 2020 +0800
+
+    append GPL
+
+[33mcommit 6fd86a64fb2b87ef67b8ddf3c8089fcf70749216[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Mon Oct 5 20:21:41 2020 +0800
+
+    add distributed
+
+[33mcommit 4817cf569e3fa81ba8a7e1b4ca1e33280866ed08[m
+Author: bamboo-boy <374633434@qq.com>
+Date:   Mon Oct 5 20:15:25 2020 +0800
+
+    wrote a readme file
